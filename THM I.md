@@ -19,7 +19,6 @@ _Types of Hackers_
 • They test systems (often using the same tools as Black Hats, but within the law) by conducting penetration testing and security audits as a service for businesses and organizations that don’t want to be hacked.\
 • White Hats report on any vulnerabilities found and what needs to be done to fix them. Both the U.S. and Australian governments have set up competitions to encourage school and university students to take up (White Hat) hacking as a career.
 
-
 - Grey Hat Hackers\
 • Grey Hats generally work within the law but may publish vulnerabilities and exploits or sell exploits to unknown buyers without asking too many questions.\
 • They may also report vulnerabilities to software vendors anonymously to avoid prosecution. Unfortunately some vendors object to having their defective code discovered and discourage security research on their products.
@@ -30,6 +29,6 @@ _Types of Hackers_
 • It is likely that many of the “hackers” associated with online protest group Anonymous are script kiddies.
 
 - Cyber-troops, cyber-soldiers\
-•These are state-sponsored military personnel trained in hacking techniques who use malware and hacking techniques to spy, gather intelligence, steal intellectual property and disrupt enemy systems.\
-•Spammers and Phishers: Spammers use programs—spambots—to automatically send email, SMSs, instant messages and tweets to potential buyers of their products.\
-•Phishers use the same technologies (and fake “pharming” sites) to entice victims to click on links (and type in user-names and passwords) and download and install malware.
+• These are state-sponsored military personnel trained in hacking techniques who use malware and hacking techniques to spy, gather intelligence, steal intellectual property and disrupt enemy systems.\
+• Spammers and Phishers: Spammers use programs—spambots—to automatically send email, SMSs, instant messages and tweets to potential buyers of their products.\
+• Phishers use the same technologies (and fake “pharming” sites) to entice victims to click on links (and type in user-names and passwords) and download and install malware.
