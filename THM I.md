@@ -1,5 +1,5 @@
 _Types of Hackers_
-- Phreakers
+- Phreakers\
 • The oldest type of computer hackers, Phreakers discover how telephone systems work and use their knowledge to make free phone calls.
 • In the past, phone phreakers used what we now think of as hacking techniques to access mainframe computers and programmable telephone switches to obtain information, alter records or evade capture.
 • Famous (and now retired) phreakers include Kevin Mitnick, Kevin Poulsen and Apple founders Steve Jobs and Steve Wozniak.
